@@ -121,3 +121,11 @@ th,td{
 .mode:hover{
     background-color:#4311b8 ;
 }
+@media(max-width :832px){
+    .mode{
+        position: absolute;
+        left: 39px;
+        top: 13px;
+    
+    }
+}
